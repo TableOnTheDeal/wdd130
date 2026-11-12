@@ -1,0 +1,190 @@
+@import url("https://fonts.googleapis.com/css2?family=Road+Rage&family=Rubik+Dirt&display=swap");
+
+body {
+  background-color: #236465;
+  font-family: "Rubik Dirt", system-ui, "Road Rage", sans-serif;
+  font-size: 22px;
+  margin: 0;
+  padding: 0;
+}
+
+#content {
+  background-color: white;
+  max-width: 1600px;
+  width: 100%;
+  padding: 0;
+  margin: 0 auto;
+  border: 0;
+  text-align: center;
+}
+
+header {
+  background-color: #95D9DA;
+  margin: 0 auto;
+}
+
+nav {
+  background-color: #95D9DA;
+  text-align: center;
+  font-family: "Road Rage", sans-serif;
+}
+
+nav a {
+  text-align: center;
+  color: darkred;
+  text-decoration: none;
+  padding: 15px;
+}
+
+a:hover {
+  background-color: lightblue;
+  color: #236465;
+  padding: 15px;
+}
+
+main {
+  text-align: center;
+  display:grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: .01fr;
+  gap:20px;
+}
+
+main section img {
+  box-sizing: border-box;
+}
+
+section {
+  text-align: center;
+}
+
+h2 {
+  margin: 0;
+}
+
+h4 {
+  color: darkred;
+}
+
+.home-title {
+  color: darkred;
+  font-family: "Rubik Dirt", system-ui;
+  font-size: 2em;
+  margin-top: 10px;
+}
+
+.book, .join {
+  background-color: #95D9DA;
+  text-decoration: none;
+  font-family: "Road Rage", sans-serif;
+  font-size: 18px;
+  padding: 15px 30px;
+  margin-top: 50px;
+  border-radius: 5px;
+}
+
+.book:hover, .join:hover {
+  background-color: #95D9DA;
+  padding: 15px 30px;
+  margin-top: 50px;
+  border-radius: 5px;
+}
+
+.rivers-card, .camping-card, .rapids-card {
+  margin: 75px 0;
+}
+
+.card-img {
+  border: 10px solid #95D9DA;
+  margin: 0 auto;
+}
+
+#hero-msg h1, #hero-msg h4 {
+  text-align: center;
+  color: darkred;
+  font-family: "Rubik Dirt", system-ui;
+}
+
+.msg {
+  background-color: #95D9DA;
+  line-height: 1.5em;
+  padding: 35px;
+  max-width: 1600px;
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  display: grid;
+  gap:20px;
+}
+
+.mountains {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.msg h2, .msg p {
+  color: darkred;
+  font-size: 1em;
+  text-align: center;
+
+}
+
+.msg p {
+  padding-bottom: 15px;
+  font-family: "Road Rage", sans-serif;
+}
+
+.button-box {text-align: center;}
+
+#background {
+  height: 150px;
+  background-color: #95D9DA;
+  margin: 0 auto;
+}
+
+.logo {
+  width: 80px;
+}
+
+#logo_link {
+  padding-top: 5px;
+}
+
+.icon {
+  width: 80px;
+  padding-top: 10px;
+}
+
+#hero-img {
+  max-width: 1600px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+header, footer {
+  background-color: #95D9DA;
+  margin: 0 auto;
+  color: darkred;
+}
+
+footer {
+  padding: 25px 50px;
+  margin-top: 200px;
+}
+
+footer .social img {
+  padding-top: 15px;
+}
+
+footer a, footer a:hover {
+  color: darkred;
+  text-decoration: none;
+}
+
+footer p {
+  font-size: 1.2em;
+}
+
+footer p a:hover {
+  text-decoration: underline;
+}

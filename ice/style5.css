@@ -1,0 +1,19 @@
+body {
+    background-color: purple;
+    margin:0;
+}
+/* Top 4 lines are an easy way to see if the css is linked properly */
+
+h1 {
+    background-color: bisque;
+    font-size: 46px;
+}
+h2 {
+    color:brown;
+}
+#beginning {
+    color: chocolate;
+}
+#blueberry {
+    color: greenyellow;
+}

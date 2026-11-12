@@ -1,0 +1,24 @@
+SLAY THE WATERS
+SLAY THE WAVES
+SLAY BEYOND THE BAY
+
+d82763, 351320
+19647e, 28afb0, 3b86ff
+8acb36
+ddcecd, eee5e5
+
+da4167
+
+purp: create a new audience/interest/aesthetic to white water rafting. make an unusual, yet still high-quality white water rafting experience. of course, we can only go so far with aesthetic and the rest is up to the location, weather, and whatever the water and rocks are feeling like.
+
+audie: target customers are seasoned wwr pros, and newcomers that like goth. the goth scene is not familiar with being physically active, but they love to spend money. they also like edge. white water rafting gives edge.
+
+while not much can be changed about the actual rafting experience without compromising safety, we could realistically add goth style to the rental rafts, maybe offer gothy equipment, maybe even sell gothy attire, equipment and stuff.
+
+  --primary-color: #b83958; EDGE PINK
+  --primary-bright: #3b86ff; link blue
+  --secondary-color: #4ca8bd; FRESH SLAP
+  --accent1-color: #78b02f; GRASS BLADE
+  --accent2-color: #6b9d29; STUBBY GRASS BLADE
+  --surface-color: #ffffff; WHITE
+  --ink-color: #000000; BLACK

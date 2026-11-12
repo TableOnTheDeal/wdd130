@@ -1,0 +1,29 @@
+body {
+    background-color:chartreuse;
+}
+.bordered {
+  background-color: blueviolet;
+  border: solid 2px black;
+  margin: 30px;
+  padding: 20px;
+  width: 500px;
+  box-sizing: border-box;
+}
+.experiment {
+  h2 {
+    color:darkslategray
+  }
+
+  color: red;
+  padding-top: 50px;
+}
+h1 {
+  margin-bottom: 100px;
+}
+.hoverer:hover {
+  color: orange;
+}
+
+span {
+  background-color: pink
+}

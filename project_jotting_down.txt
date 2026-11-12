@@ -1,0 +1,14 @@
+- table flipping simulator (you can adjust strength, weight, goals, etc)
+
+- sentient triangle with a face that can do different things depending on how you interact with it. there is a drop down chart where you can see everything the triangle has done in your current session.
+
+- fake website for fake product (slip on silicone animal grippers for your pencils)
+
+- has your favorite youtuber come back in the last 365 days? (takes data from YouTube somehow, looks up date of a username's latest public-access video/short and compares it to current day. can write on a gravestone if they're not active, see other people's contributions.
+
+- PCX website, although that's too ambitious because you would want pixel art, right? Or you could do it without pixel art. And you could do characters you're most comfortable with.
+
+Feedback:
+How will this make money? (my answer: sidebar ads)
+Make it clear that they're writing on a gravestone.
+What if I put on an adblocker? (put up a donation button)
